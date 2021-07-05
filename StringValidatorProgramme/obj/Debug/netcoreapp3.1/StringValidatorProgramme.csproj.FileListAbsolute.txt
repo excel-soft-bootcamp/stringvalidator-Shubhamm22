@@ -1,0 +1,13 @@
+D:\visual studio\First\StringValidatorProgramme\obj\Debug\netcoreapp3.1\StringValidatorProgramme.csproj.AssemblyReference.cache
+D:\visual studio\First\StringValidatorProgramme\obj\Debug\netcoreapp3.1\StringValidatorProgramme.AssemblyInfoInputs.cache
+D:\visual studio\First\StringValidatorProgramme\obj\Debug\netcoreapp3.1\StringValidatorProgramme.AssemblyInfo.cs
+D:\visual studio\First\StringValidatorProgramme\obj\Debug\netcoreapp3.1\StringValidatorProgramme.csproj.CoreCompileInputs.cache
+D:\visual studio\First\StringValidatorProgramme\bin\Debug\netcoreapp3.1\StringValidatorProgramme.exe
+D:\visual studio\First\StringValidatorProgramme\bin\Debug\netcoreapp3.1\StringValidatorProgramme.deps.json
+D:\visual studio\First\StringValidatorProgramme\bin\Debug\netcoreapp3.1\StringValidatorProgramme.runtimeconfig.json
+D:\visual studio\First\StringValidatorProgramme\bin\Debug\netcoreapp3.1\StringValidatorProgramme.runtimeconfig.dev.json
+D:\visual studio\First\StringValidatorProgramme\bin\Debug\netcoreapp3.1\StringValidatorProgramme.dll
+D:\visual studio\First\StringValidatorProgramme\bin\Debug\netcoreapp3.1\StringValidatorProgramme.pdb
+D:\visual studio\First\StringValidatorProgramme\obj\Debug\netcoreapp3.1\StringValidatorProgramme.dll
+D:\visual studio\First\StringValidatorProgramme\obj\Debug\netcoreapp3.1\StringValidatorProgramme.pdb
+D:\visual studio\First\StringValidatorProgramme\obj\Debug\netcoreapp3.1\StringValidatorProgramme.genruntimeconfig.cache
